@@ -105,6 +105,7 @@ CREATE TABLE table_name(
 ……
 );
 ````
+````
 ### PK约束
 #### 单字段主键
 ````
